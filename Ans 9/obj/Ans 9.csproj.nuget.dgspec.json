@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kanan\\Desktop\\Homework 2510\\Ans 9\\Ans 9.csproj": {}
+    "C:\\Users\\Kanan\\Desktop\\Class Constructors\\Ans 9\\Ans 9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kanan\\Desktop\\Homework 2510\\Ans 9\\Ans 9.csproj": {
+    "C:\\Users\\Kanan\\Desktop\\Class Constructors\\Ans 9\\Ans 9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kanan\\Desktop\\Homework 2510\\Ans 9\\Ans 9.csproj",
+        "projectUniqueName": "C:\\Users\\Kanan\\Desktop\\Class Constructors\\Ans 9\\Ans 9.csproj",
         "projectName": "Ans 9",
-        "projectPath": "C:\\Users\\Kanan\\Desktop\\Homework 2510\\Ans 9\\Ans 9.csproj",
+        "projectPath": "C:\\Users\\Kanan\\Desktop\\Class Constructors\\Ans 9\\Ans 9.csproj",
         "packagesPath": "C:\\Users\\Kanan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kanan\\Desktop\\Homework 2510\\Ans 9\\obj\\",
+        "outputPath": "C:\\Users\\Kanan\\Desktop\\Class Constructors\\Ans 9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kanan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,8 +7,5 @@ class Car
         this.brand = brand;
     }
     // b. Create a function GetBrand that returns the brand of the car.
-    public string GetBrand()
-    {
-        return brand;
-    }
+    public string GetBrand() => brand;
 }
